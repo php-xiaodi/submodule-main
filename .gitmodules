@@ -1,0 +1,3 @@
+[submodule "utils/submodule-sub"]
+	path = utils/submodule-sub
+	url = git@github.com:php-xiaodi/submodule-sub.git
